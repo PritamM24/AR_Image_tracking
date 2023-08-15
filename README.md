@@ -15,7 +15,7 @@ There is a simple controller added to the object so that the user can move it ar
 
 ## Screenshots
 USE THIS FOR SPAWNING THE DRAGON!! (named as dragon.jpeg in assets)
-![App Screenshot](https://www.google.com/search?sca_esv=557148347&sxsrf=AB5stBg6IMiXGZCbPjUf-OJxyB4HspQnaA:1692118380227&q=DRAGON&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj5peKXkN-AAxWuyDgGHYJVCuUQ0pQJegQIDBAB&biw=1536&bih=758&dpr=1.25#imgrc=YzHJRl9ryMs81M)
+![App Screenshot](https://www.google.com/search?sca_esv=557148347&sxsrf=AB5stBg6IMiXGZCbPjUf-OJxyB4HspQnaA:1692118380227&q=DRAGON&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj5peKXkN-AAxWuyDgGHYJVCuUQ0pQJegQIDBAB&biw=1536&bih=758&dpr=1.25#imgrc=YzHJRl9ryMs81M](https://a-z-animals.com/media/2022/10/dragon-final.jpg)](https://a-z-animals.com/media/2022/10/dragon-final.jpg)
 
 
 ## Acknowledgements
