@@ -13,9 +13,9 @@ It also uses the concept of Image recognition so the object(for reference here i
 There is a simple controller added to the object so that the user can move it around on their screen.
 
 
-## Screenshots
-USE THIS FOR SPAWNING THE DRAGON!! (named as dragon.jpeg in assets)
-![App Screenshot]([https://a-z-animals.com/media/2022/10/dragon-final.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fa-z-animals.com%2Fblog%2Fhow-to-draw-a-dragon%2F&psig=AOvVaw3qMZ_2h5vwnsAy0aJcXZgt&ust=1692210275534000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCfudSk34ADFQAAAAAdAAAAABAE))
+
+USE named as dragon.jpeg FOR SPAWNING THE DRAGON in ASSETS.
+
 
 
 ## Acknowledgements
